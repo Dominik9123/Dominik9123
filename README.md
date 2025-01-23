@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi the 👋
 
 <!--
 **Dominik9123/Dominik9123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
