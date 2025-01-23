@@ -1,3 +1,3 @@
 # 🐳 Dominik Skutecki
 
-**`Front-End Developer (For Now 🙈)`
+`Front-End Developer (For Now 🙈)`
