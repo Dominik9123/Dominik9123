@@ -4,6 +4,7 @@
 I'm an begginer with little experience Front-End developer. Focusing on modern looking websites and learning new front-end techs. Trying my best everyday to create new projects for this GitHub and focus the attention of potential employers. Self Development is on my first place, Combing programming and studies.
 ---
 🎓 Currently study Applied Computer Science at WSEI Cracow, Poland
+---
 🖥️ I graduated from IT Technical School Before College
 ---
 ### 🧰 Languages and Tools
