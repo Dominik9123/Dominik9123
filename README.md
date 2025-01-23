@@ -1,4 +1,4 @@
-# 🏌️‍♂️ Dominik Skutecki
+# 🏌️‍♂️ Dominik Skutecki  📪 - skuteckidominik.contact@gmail.com
 ---
 `Front-End Developer (For Now 🙈)`
 I'm an begginer with little experience Front-End developer. Focusing on modern looking websites and learning new front-end techs. Trying my best everyday to create new projects for this GitHub and focus the attention of potential employers. Self Development is on my first place, Combing programming and studies.
