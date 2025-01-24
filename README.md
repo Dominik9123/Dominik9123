@@ -20,3 +20,8 @@ I'm an begginer with little experience Front-End developer. Focusing on modern l
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dominik9123/Dominik9123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dominik9123/Dominik9123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Dominik9123/Dominik9123/output/github-snake.svg" />
+</picture> 
