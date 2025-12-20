@@ -1,4 +1,4 @@
-<img src="images/Group 1.png" alt="github-banner" width="100%" />
+<!-- <img src="images/Group 1.png" alt="github-banner" width="100%" /> -->
 
 
 # 🏌️‍♂️ Dominik Skutecki  📪 - skuteckidominik.contact@gmail.com
