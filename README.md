@@ -2,7 +2,7 @@
 
 
 # 🏌️‍♂️ Dominik Skutecki  📪 - skuteckidominik.contact@gmail.com
-# Hi, I'm Dominik Skutecki
+# Hi, I'm Dominik 
 
 I'm a beginner Front-End Developer and Applied Computer Science student based in Krakow, Poland.  
 I focus on building clean, responsive and practical web applications while improving my skills in modern front-end and full-stack technologies.
