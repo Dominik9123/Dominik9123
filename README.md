@@ -49,13 +49,7 @@ The goal of this project is to practice modern front-end development, browser ex
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode)
 
-## Featured Projects
-
-### Password Security Analyzer API
-
-A FastAPI project for analyzing password strength, generating secure passwords and comparing password security.
-
-Repository: [password-security-analyzer-api](https://github.com/Dominik9123/password-security-analyzer-api)
+## Featured Project
 
 ### job-tracker-extension
 
