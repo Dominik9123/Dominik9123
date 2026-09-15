@@ -9,12 +9,12 @@ I focus on building clean, responsive and practical web applications while impro
 
 ## About Me
 
-- Currently studying Applied Computer Science at WSEI in Krakow
-- Graduated from an IT Technical School
-- Interested in front-end development, browser extensions and web application architecture
-- Building real projects to improve my portfolio and practical programming skills
-- Currently working on **job-tracker-extension**
-- Open to internships, junior opportunities and collaboration
+- Junior QA / Software Tester interested in manual and automation testing (Cypress, Pytest, Postman)
+- Currently studying Applied Computer Science (Programming and Data Analysis) in Krakow
+- Graduated from an IT Technical School with a programming profile
+- Testing REST APIs, writing E2E tests, and learning good defect management practices
+- Building my own projects (front-end, back-end) to better understand the applications I test
+- Open to internships, junior opportunities, and my first QA role
 
 ## Main Project
 
@@ -57,10 +57,9 @@ My main current project focused on job application tracking and browser extensio
 
 ## Currently Learning
 
-- TypeScript in real projects
-- React and Next.js application structure
-- Browser extension development
-- Cypress testing
+- Mobile testing
+- Advanced Postman techniques (environment variables, automated collection tests)
+- Best practices for writing test cases and bug reporting
 - Cleaner API integration and maintainable project architecture
 
 ## Contact
